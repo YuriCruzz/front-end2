@@ -16,4 +16,4 @@ Aprendendo sobre REST: primeiras requisições usando `fetch`. [Conteúdo](./aul
 
 ### Aula 11
 
-Conhecendo um pouco mais sobre `promises` e aprofundando um pouco mais no uso do `fetch` (AJAX). [Conteúdo](./aulas/aula11/)
+Conhecendo um pouco mais sobre `promises` e aprofundando no uso do `fetch` (AJAX). [Conteúdo](./aulas/aula11/)
