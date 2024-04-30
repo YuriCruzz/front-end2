@@ -27,6 +27,10 @@ function fazerLogin() {
   }); 
 }
 
+function linparErro() {
+  $
+}
+
 function fazerCadastro() {
   let emailInserido = document.getElementById('email').value;
   let senhaInserida = document.getElementById('password').value;
